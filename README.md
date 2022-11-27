@@ -6,11 +6,9 @@ The challenge for week 1 was to edit the codebase of a given webpage to ensure t
 
 ### User Story
 
-```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
-```
 
 ### Acceptance Criteria
 
